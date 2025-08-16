@@ -107,6 +107,10 @@ body {
     color: #3247a5;
     font-weight: 500;
 }
+.tip {
+    color: #6e6e73;
+    font-weight: 300;
+}
 .position-location {
     display: flex;
     justify-content: space-between;
